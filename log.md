@@ -15,3 +15,12 @@
 **Thoughts:** I struggled with JS, but, overall, I feel like I am slowly getting better at it.
 
 **Link to work:** Pomodoro-Clock https://github.com/AnnaLinka/Pomodoro-Clock
+
+### Day 2: June 17, Saturday
+
+#### Project
+**Today's Progress**: Fixed all bugs, styled the app, added media query and sounds.
+
+**Thoughts:** My Pomodoro-Clock is finally working! Will use it every da. This technic is fantastic :)
+
+**Link to work:** Pomodoro-Clock https://github.com/AnnaLinka/Pomodoro-Clock
