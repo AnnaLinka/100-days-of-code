@@ -21,6 +21,15 @@
 #### Project
 **Today's Progress**: Fixed all bugs, styled the app, added media query and sounds.
 
-**Thoughts:** My Pomodoro-Clock is finally working! Will use it every da. This technic is fantastic :)
+**Thoughts:** My Pomodoro-Clock is finally working! Will use it every day. This technic is fantastic :)
 
 **Link to work:** Pomodoro-Clock https://github.com/AnnaLinka/Pomodoro-Clock
+
+### Day 3: June 18, Sunday
+
+#### Project
+**Today's Progress**: Decided to make a simple form and validate it correctly with HTML5 and vanilla JS. 
+
+**Thoughts:** It took a while, still need some improvements. Tomorrow have to focus on accessibility.
+
+**Link to work:** Form https://github.com/AnnaLinka/Form
