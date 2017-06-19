@@ -28,8 +28,17 @@
 ### Day 3: June 18, Sunday
 
 #### Project
-**Today's Progress**: Decided to make a simple form and validate it correctly with HTML5 and vanilla JS. 
+**Today's Progress**: Decided to make a simple form and validate it correctly with HTML5 and vanilla JS.
 
 **Thoughts:** It took a while, still need some improvements. Tomorrow have to focus on accessibility.
+
+**Link to work:** Form https://github.com/AnnaLinka/Form
+
+### Day 4: June 19, Monday
+
+#### Project
+**Today's Progress**: Continued with form validation from yesterday. Added some js validation.
+
+**Thoughts:** RegEx isn't so easy. Need to practice.
 
 **Link to work:** Form https://github.com/AnnaLinka/Form
