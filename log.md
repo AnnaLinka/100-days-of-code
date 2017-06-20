@@ -42,3 +42,13 @@
 **Thoughts:** RegEx isn't so easy. Need to practice.
 
 **Link to work:** Form https://github.com/AnnaLinka/Form
+
+### Day 5: June 20, Tuesday
+
+#### Project
+**Today's Progress**: Completed form validation in html5. Also done part of FreeCodeCamp webpage project.
+
+**Thoughts:** Practice is a clue-word!
+
+**Link to work:** Form: https://github.com/AnnaLinka/Form
+Webpage: https://codepen.io/anempi/pen/gRWrra
