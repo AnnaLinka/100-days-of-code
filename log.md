@@ -52,3 +52,21 @@
 
 **Link to work:** Form: https://github.com/AnnaLinka/Form
 Webpage: https://codepen.io/anempi/pen/gRWrra
+
+### Day 6: June 21, Wednesday
+
+#### Project
+**Today's Progress**: Worked with Ajax and API exercises. Made a simple page which loads gifs from Giphy.
+
+**Thoughts:** Have to focus on divs features to avoid making common yet irritating mistakes.
+
+**Link to work:** In progress.
+
+### Day 7: June 22, Thursday
+
+#### Project
+**Today's Progress**: Coded a layout using CSS flexbox and media-queries. No floats. Used gulp with sass and autoprefixer.
+
+**Thoughts:** It's always worth to check out all browsers. Sometimes Chrome dev tools can fool you.
+
+**Link to work:** In progress.
