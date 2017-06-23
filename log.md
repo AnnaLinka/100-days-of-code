@@ -70,3 +70,14 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 **Thoughts:** It's always worth to check out all browsers. Sometimes Chrome dev tools can fool you.
 
 **Link to work:** In progress.
+
+### Day 8: June 23, Friday
+
+#### Project
+**Today's Progress**: Tried to debug an exercise in jQuery. Learned about jQuery conflict.
+                      Installed and learned some basic of Python before tomorrow Django Girls workshop.
+
+**Thoughts:** Debugging is hard :|
+              Excited to learn some more Python.
+
+**Link to work:** In progress.
