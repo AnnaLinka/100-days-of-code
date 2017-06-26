@@ -81,3 +81,32 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
               Excited to learn some more Python.
 
 **Link to work:** In progress.
+
+### Day 9: June 24, Saturday
+
+#### Project
+**Today's Progress**: Attend Django Girls workshop, learned some basic of Django framework.
+
+**Thoughts:** Was great! Happy to learn some back-end.
+
+**Link to work:** https://github.com/AnnaLinka/django-blog
+
+### Day 10: June 25, Sunday
+
+#### Project
+**Today's Progress**: Django Girls workshop day 2, made a blog in Django!
+
+**Thoughts:** Blog and models in Django look a little like a PHP + Wordpress.
+
+**Link to work:** http://anempi.pythonanywhere.com/
+                  https://github.com/AnnaLinka/django-blog
+
+### Day 11: June 26, Monday
+
+#### Project
+**Today's Progress**: Continue with Django blog tutorial and my blog.
+
+**Thoughts:** Python seems to be interesting :)
+
+**Link to work:** http://anempi.pythonanywhere.com/
+                  https://github.com/AnnaLinka/django-blog
