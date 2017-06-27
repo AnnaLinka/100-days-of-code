@@ -110,3 +110,12 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 
 **Link to work:** http://anempi.pythonanywhere.com/
                   https://github.com/AnnaLinka/django-blog
+
+### Day 12: June 27, Tuesday
+
+#### Project
+**Today's Progress**: Continued with Django blog. Extended it with base template. Wanted to create post_detail template, link it etc. but failed.
+
+**Thoughts:** Tomorrow is debugging day :/
+
+**Link to work:** https://github.com/AnnaLinka/django-blog
