@@ -119,3 +119,14 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 **Thoughts:** Tomorrow is debugging day :/
 
 **Link to work:** https://github.com/AnnaLinka/django-blog
+
+### Day 13: June 28, Wednesday
+
+#### Project
+**Today's Progress**: Django blog: debugging went great :) Created form to write posts, and secured.
+                      Some code debugging in jQuery.
+
+**Thoughts:** Sometimes a break helps.
+
+**Link to work:** https://github.com/AnnaLinka/django-blog
+                  http://anempi.pythonanywhere.com/
