@@ -129,4 +129,13 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 **Thoughts:** Sometimes a break helps.
 
 **Link to work:** https://github.com/AnnaLinka/django-blog
-                  http://anempi.pythonanywhere.com/
+                      http://anempi.pythonanywhere.com/
+
+### Day 14: June 29, Thursday
+
+#### Project
+**Today's Progress**: Getting to know SASS better, mixins, partials and placeholders. Also gulp installing, modules with npm + how to generate package.json.
+
+**Thoughts:** Easier than previous. Getting better.
+
+**Link to work:** Codecademy - SASS, private material CL, some exercise.
