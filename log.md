@@ -138,4 +138,31 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 
 **Thoughts:** Easier than previous. Getting better.
 
-**Link to work:** Codecademy - SASS, private material CL, some exercise.
+**Link to work:** Codecademy - SASS, private materials CL, some exercise.
+
+### Day 15: June 30, Friday
+
+#### Project
+**Today's Progress**: More learning and reading than self coding - npm modules and gulp exercises. Plus some Python commends.
+
+**Thoughts:** npm rocks :)
+
+**Link to work:** https://css-tricks.com/gulp-for-beginners/ (materials)
+
+### Day 16: July 1, Saturday
+
+#### Project
+**Today's Progress**:  Getting to know better JSON, REST API, and Ajax. Also completed CodeCamp website.
+
+**Thoughts:** Intention: going deeper into subject + understand it all correctly.
+
+**Link to work:** https://codepen.io/anempi/pen/gRWrra
+
+### Day 17: July 2, Sunday
+
+#### Project
+**Today's Progress**: Codecademy JSON exercises + more gulp and API.
+
+**Thoughts:** Next step: fetch.
+
+**Link to work:** https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/5
