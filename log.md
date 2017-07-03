@@ -166,3 +166,12 @@ Webpage: https://codepen.io/anempi/pen/gRWrra
 **Thoughts:** Next step: fetch.
 
 **Link to work:** https://www.codecademy.com/courses/javascript-beginner-en-xTAfX/0/5
+
+### Day 18: July 3, Monday
+
+#### Project
+**Today's Progress**: Some changes in layout with BEM, Sass and on flexbox.
+
+**Thoughts:** More BEM practice required.
+
+**Link to work:** https://github.com/AnnaLinka/100daysOfCode-minor-exercises/tree/master/Layout%20with%20BEM%20and%20Sass%2BGulp
